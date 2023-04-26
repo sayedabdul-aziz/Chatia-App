@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "641355884643",
+    "project_id": "chatia-7c8d0",
+    "storage_bucket": "chatia-7c8d0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:641355884643:android:975417491787af06623056",
+        "android_client_info": {
+          "package_name": "com.example.chatia"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "641355884643-bm9nfgrqdf0h3h8cnm750b812pocktpt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.chatia",
+            "certificate_hash": "ec7ba8bb77341b1e167950de10d2e15e695185a7"
+          }
+        },
+        {
+          "client_id": "641355884643-lfiip9i9gj5fsj0n165028g1vi7aof7f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSwVC82REswsW5gQWrs4j_TniK1K8VWto"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "641355884643-lfiip9i9gj5fsj0n165028g1vi7aof7f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
